@@ -1,4 +1,5 @@
 # SiKu-app
+react
 ```
 cnpm install
 cnpm start
